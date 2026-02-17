@@ -1,96 +1,119 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20%7C%20ML%20%7C%20Data%20Science&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Intelligence%2C%20One%20Model%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Neon Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,20,5&height=200&section=header&text=Rishikesh%20Sharma&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20Engineer%20%26%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=🤖+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Analyst;🧠+Deep+Learning+Practitioner;🔬+Research+%26+Innovation+Driven;🚀+Building+the+Future+with+AI" alt="Typing SVG" />
+<a href="https://github.com/Rishi-Rishikesh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=F700FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=55&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+Practitioner;🦜+LLMs+%26+GenAI+Builder;📊+Data+Science+%26+Visualization;🚀+Turning+Data+into+Intelligence!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishi-Rishikesh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/Rishi-Rishikesh)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi-Rishikesh)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <br/>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Rishikesh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Rishi-Rishikesh?style=for-the-badge&color=F700FF&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## 🧬 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```python
-class AIMLDeveloper:
-    def __init__(self):
-        self.name         = "Your Name"
-        self.role         = "AI / ML Engineer & Data Scientist"
-        self.location     = "🌍 Your City, Country"
-        self.languages    = ["Python", "SQL", "R", "Bash"]
-        self.focus        = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-        self.passions     = ["Research", "Open Source", "Innovation", "Teaching"]
-        self.fun_fact     = "I train models faster than I make coffee ☕"
+class RishikeshSharma:
 
-    def current_work(self):
+    def __init__(self):
+        self.name         = "Rishikesh Sharma"
+        self.username     = "Rishi-Rishikesh"
+        self.role         = "AI / ML Engineer & Data Scientist"
+        self.languages    = ["Python", "SQL", "R", "Bash"]
+        self.ml_stack     = ["scikit-learn", "TensorFlow", "PyTorch", "Keras"]
+        self.genai_stack  = ["LangChain", "HuggingFace", "OpenAI", "LlamaIndex"]
+        self.data_stack   = ["Pandas", "NumPy", "Matplotlib", "Plotly", "Tableau"]
+        self.motto        = "Data is the new oil. I'm the refinery. 🔥"
+
+    def say_hi(self):
+        print(f"Hey there! I'm {self.name} 👋")
+        print("I build intelligent systems that learn, adapt & solve real problems.")
+        print("Let's collaborate and build something amazing together! 🚀")
+
+    def current_chapter(self):
         return {
-            "🔭 working_on"   : "LLM fine-tuning & RAG pipelines",
-            "🌱 learning"     : "Multimodal AI, Diffusion Models",
-            "👯 collaborate"  : "Open Source AI/ML Projects",
-            "💬 ask_me_about" : "Machine Learning, Deep Learning, Data Science",
+            "🔭 building"    : "LLM-powered apps & RAG pipelines",
+            "🌱 exploring"   : "Multimodal AI, Agents & Diffusion Models",
+            "🤝 open_to"     : "Collaborations on AI/ML Open Source Projects",
+            "💬 ask_me"      : "Python, ML, Deep Learning, LLMs, Data Science",
+            "⚡ fun_fact"    : "I debug models better than I debug my sleep schedule 😄",
         }
 
-me = AIMLDeveloper()
-print(me.current_work())
+me = RishikeshSharma()
+me.say_hi()
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
+### 🐍 Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🤖 Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337ACC?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### 🦜 LLMs & Generative AI
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-7B2FBE?style=for-the-badge)
+
+### 📊 Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🚀 LLMs & Generative AI
-![ChatGPT](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### ☁️ Cloud & MLOps
+### ☁️ Cloud, MLOps & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗄️ Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -98,17 +121,16 @@ print(me.current_work())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Rishi-Rishikesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=F700FF&icon_color=00FFFF&text_color=FFFFFF"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Rishikesh&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=F700FF&text_color=FFFFFF"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Rishikesh&theme=radical&hide_border=true&background=0D0D0D&ring=F700FF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="Streak Stats" width="60%"/>
 
-<br/>
+<br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-Rishikesh&bg_color=0D0D0D&color=F700FF&line=00FFFF&point=FFFF00&area=true&hide_border=true&area_color=F700FF" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -117,10 +139,29 @@ print(me.current_work())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Rishi-Rishikesh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🎯 Skills Radar
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Skill                        Level         Progress         ║
+╠══════════════════════════════════════════════════════════════╣
+║  🐍 Python                    Expert        ██████████  100% ║
+║  🤖 Machine Learning          Advanced      █████████░   92% ║
+║  🧠 Deep Learning             Advanced      ████████░░   85% ║
+║  🦜 LLMs / GenAI              Advanced      ████████░░   88% ║
+║  📊 Data Science & EDA        Expert        █████████░   95% ║
+║  📈 Data Visualization        Advanced      ████████░░   85% ║
+║  ☁️  MLOps & Deployment        Intermediate  ███████░░░   75% ║
+║  🔍 NLP                       Advanced      ████████░░   83% ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -128,74 +169,56 @@ print(me.current_work())
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+> ⭐ **Replace `PROJECT-1` and `PROJECT-2` with your actual repo names!**
+
+<a href="https://github.com/Rishi-Rishikesh/PROJECT-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rishikesh&repo=PROJECT-1&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=F700FF&icon_color=00FFFF&text_color=FFFFFF"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<a href="https://github.com/Rishi-Rishikesh/PROJECT-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishi-Rishikesh&repo=PROJECT-2&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=F700FF&icon_color=00FFFF&text_color=FFFFFF"/>
 </a>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🎯 ML Expertise Heatmap
-
-```
-Natural Language Processing  ████████████████████  95%
-Deep Learning                ███████████████████░  90%
-Computer Vision              ████████████████░░░░  80%
-Generative AI / LLMs         ███████████████████░  90%
-Time Series Analysis         ██████████████░░░░░░  70%
-Reinforcement Learning       ████████████░░░░░░░░  60%
-MLOps & Deployment           ████████████████░░░░  80%
-Data Engineering             ██████████████░░░░░░  70%
-```
-
----
-
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi-Rishikesh/Rishi-Rishikesh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi-Rishikesh/Rishi-Rishikesh/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Rishi-Rishikesh/Rishi-Rishikesh/output/github-contribution-grid-snake-dark.svg" width="95%">
 </picture>
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts / Research
-
-<!-- BLOG-POST-LIST:START -->
-- 🧠 [Building a RAG Pipeline with LangChain and Pinecone](#)
-- 📊 [Fine-tuning LLaMA 3 for Domain-Specific Tasks](#)
-- 🔍 [Explainable AI: Making Black Box Models Transparent](#)
-- 🚀 [End-to-End MLOps with MLflow and Docker](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect & Collaborate
-
 <div align="center">
 
-> *"The goal of AI is not to replace human intelligence, but to amplify it."*
+### 💬 A Quote I Live By
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+### 🤝 Let's Build Something Incredible Together, Rishikesh!
+
+> *"In God we trust. All others must bring data."* — W. Edwards Deming
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishi-Rishikesh)
+[![Kaggle](https://img.shields.io/badge/📊_Follow_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Rishi-Rishikesh)
+[![GitHub](https://img.shields.io/badge/⭐_Star_my_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi-Rishikesh)
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,20,5&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
