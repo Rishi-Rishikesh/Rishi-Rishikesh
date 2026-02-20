@@ -8,10 +8,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishi-Rishikesh)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Rishi_Rishikesh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Rishi-Rishikesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-rishi/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Rishi_Rishikesh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rishi--Rishikesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi-Rishikesh)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishikeshsharma07@email.com)
 
 <br/>
 
