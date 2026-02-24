@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-rishi/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Rishi_Rishikesh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+<br />
 [![GitHub](https://img.shields.io/badge/GitHub-Rishi--Rishikesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi-Rishikesh)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishikeshsharma07@email.com)
 
@@ -56,7 +57,9 @@ My goal is simple:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br />
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br />
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### Machine Learning
